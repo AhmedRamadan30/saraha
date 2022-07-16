@@ -1,0 +1,12 @@
+users (id, name, email, password)
+messages (text, user_id)
+visits(user_id)
+
+// نبعت رسايل
+نعرض الرسايل
+نعرض الزيارات وتاريخ كل زيارة
+
+
+/{id}
+/home
+/visits
